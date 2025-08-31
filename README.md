@@ -83,8 +83,8 @@ The dataset includes **2017 crop season data** provided by Dalberg Data Insights
 
 ### Requirements
 - Python 3.x
-- Libraries: `pandas`, `matplotlib`, `seaborn`, `geopandas` (optional)
-- Tableau Desktop / Tableau Public
+- Libraries: `pandas`, `matplotlib`, `seaborn`
+- Tableau Public
 
 ### Steps
 1. Clone this repository  
