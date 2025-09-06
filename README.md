@@ -53,7 +53,10 @@ The dataset includes **2017 crop season data** provided by Dalberg Data Insights
    - Sorghum vs Maize comparison chart
    - KPI cards (Population, Production, Yield per Capita)
    - Interactive filters (Crop Type, District/Subcounty)
-
+   - Here are the **Tableau Public links** for the dashboards :
+         - District Dashboard: https://public.tableau.com/app/profile/carl.collins/viz/Project2_17564645247600/District?publish=yes
+         - Subcounty Dashboard: https://public.tableau.com/app/profile/carl.collins/viz/Project2_17564645247600/Subcounty?publish=yes
+     
 4. **Presentation (Slides)**
    - Storytelling with visuals
    - Key findings & recommendations
